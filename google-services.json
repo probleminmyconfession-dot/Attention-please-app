@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909722323161",
+    "project_id": "attention-please-3feff",
+    "storage_bucket": "attention-please-3feff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909722323161:android:d72f02ae8d5662d724d6c8",
+        "android_client_info": {
+          "package_name": "com.couple.attention"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANeNDaZzWfjmVlDJ12ys63Fn4S6goBSkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909722323161:android:61694deccaea823524d6c8",
+        "android_client_info": {
+          "package_name": "com.couple.attentionplease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANeNDaZzWfjmVlDJ12ys63Fn4S6goBSkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
